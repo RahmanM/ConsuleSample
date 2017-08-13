@@ -1,0 +1,13 @@
+{
+    "bootstrap": false,
+    "server": false,
+    "datacenter": "dc1",
+    "data_dir": "/data",
+    "ui_dir": "/ui",
+    "encrypt": "Dt3P9SpKGAR/DIUN1cDirg==",
+    "log_level": "INFO",
+    "enable_syslog": false,
+    "bind_addr": "0.0.0.0",
+    "client_addr": "0.0.0.0",
+    "start_join": ["192.168.1.108"]
+}

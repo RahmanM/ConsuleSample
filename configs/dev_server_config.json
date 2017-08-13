@@ -1,0 +1,12 @@
+{
+    "bootstrap": true,
+    "server": true,
+    "datacenter": "dc1",
+    "data_dir": "data",
+    "encrypt": "Dt3P9SpKGAR/DIUN1cDirg==",
+    "log_level": "INFO",
+    "enable_syslog": false,
+    "bind_addr": "0.0.0.0",
+    "client_addr": "0.0.0.0",
+	"ui": true
+}
